@@ -1,9 +1,7 @@
 //Excercise 31: No user 
 
-
 // non empty array case
 let userNames: string[] = ['admin','Fiza','Ali','Yasmeen','Sohail','Khadija','Sana']
-
 //functional case
 function greetUser(usernames: string[]):void {
 if(usernames.length === 0) 

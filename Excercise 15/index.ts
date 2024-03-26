@@ -1,5 +1,4 @@
 // Excercise 15: Changing Guest List 
-
 let guestlist: Array<string>=[
     "Sohail Abbas",
     "Yasmeen",

@@ -1,7 +1,6 @@
 /*Excercise 18: Seeing the World...*/ 
 
 //step 1: creating an array to store the location to visit
-
 let placestovisit: Array<string> = [
     "Iraq",
     "Saudia Arab",
